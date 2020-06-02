@@ -1,2 +1,2 @@
 # front-end-web-development
-Here I share what I learnt ,
+Here I share what I learn.
